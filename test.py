@@ -1,3 +1,4 @@
+# 새로운 작성중
 from django.contrib import admin, messages
 
 from posts.models import Post
