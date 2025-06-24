@@ -5,6 +5,7 @@
 # 김태연 작업중
 # 김태연 리베이스 작업중
 # 리베이스테스트
+# 김태연 리베이스 작업중
 from django.contrib import admin, messages
 
 from posts.models import Post
