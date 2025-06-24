@@ -2,6 +2,7 @@
 # 테스트  1 작업중이였음
 # won 작업
 # seung 작업
+# 김태연 작업중
 from django.contrib import admin, messages
 
 from posts.models import Post
