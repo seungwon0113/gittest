@@ -1,4 +1,5 @@
 # 새로운 작성중
+# 테스트  1 작업중이였음
 from django.contrib import admin, messages
 
 from posts.models import Post
