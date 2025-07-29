@@ -1,4 +1,9 @@
 # 새로운 작성중
+# 테스트  1 작업중이였음
+# won 작업
+# seung 작업
+# 김태연 작업중
+# 리베이스테스트
 from django.contrib import admin, messages
 
 from posts.models import Post
